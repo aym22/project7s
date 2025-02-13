@@ -1,0 +1,18 @@
+nav {
+    background-color: #313131;
+    padding: 10px;
+    text-align:center
+}
+nav a{
+    color:white;
+    font-size: 18px;
+    margin: 0 15px;
+    text-decoration: none;
+}
+body{
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    background-color: #e8e8e8;
+}
